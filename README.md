@@ -5,4 +5,5 @@ Enables users to input article URLs, and engage with an LLM chatbot for relevant
 
 ![Screenshot (9)](https://github.com/Diaaa12/InvestiNews/assets/127878640/dfa86c8e-f66f-4461-aee4-fa15b185957d)
 
-C:\Users\USER\Pictures\Screenshots
+![Screenshot (10)](https://github.com/Diaaa12/InvestiNews/assets/127878640/1378abaa-3c00-42de-9b16-08ea7bfa7d43)
+
